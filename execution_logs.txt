@@ -1,0 +1,13 @@
+Function 'generate_consecutive_days' executed in 0.0000 seconds
+Function 'create_day_info_dict' executed in 0.0000 seconds
+Function 'count_char_occuerrenvces' executed in 0.0000 seconds
+Function 'generate_fake_data' executed in 0.1014 seconds
+Function 'generate_fake_data' executed in 0.1081 seconds
+Function 'get_employee_with_top_salary' executed in 0.0280 seconds
+Function 'get_employee_with_less_salary' executed in 0.0150 seconds
+Function 'get_business_unit_with_top_salary' executed in 0.0144 seconds
+Function 'get_employee_with_top_salary_in_each_unit' executed in 0.0175 seconds
+Function 'delete_employee_with_least_salary' executed in 0.0579 seconds
+Function 'update_employee_salary' executed in 0.0836 seconds
+Function 'create_excel' executed in 0.3689 seconds
+Function 'tables' executed in 0.0020 seconds

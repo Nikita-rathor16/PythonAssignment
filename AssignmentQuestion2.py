@@ -1,4 +1,3 @@
-from tabulate import tabulate
 days_of_week = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
 day_info_dict = {}
 for i, day in enumerate(days_of_week, start=1):
